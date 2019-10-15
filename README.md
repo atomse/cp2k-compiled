@@ -3,6 +3,11 @@
 Already compiled cp2k versions
 
 
+## Comments
+
+If the program ends with .gz, then `gzip -d $FILENAME` do uncompress it and run.
+
+
 
 ## cp2k_centos.7.6.1810_intel18.0.0_glibc.2.17-260
 
