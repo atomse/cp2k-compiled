@@ -38,7 +38,7 @@ If the program ends with .gz, then `gzip -d $FILENAME` do uncompress it and run.
 
 
 
-## cp2k.7.0_centos.7.6.1810_intel.18.0.0_glibc.2.17-260.popt
+## cp2k.7.0_centos.7.6.1810_intel.18.0.0_glibc.2.17-260_sky.popt
 
 * cp2k: 7.0 (git:c67de69)  (Sep 30, 2019)
 * OS: centos.7.6.1810
@@ -47,8 +47,7 @@ If the program ends with .gz, then `gzip -d $FILENAME` do uncompress it and run.
 * glibc 2.17-260
 
 
-
-## cp2k.7.0_ubuntu.16.04_intel.18.0.0_glibc.2.27.popt
+## cp2k.7.0_ubuntu.16.04_intel.18.0.0_glibc.2.27_sky.popt
 
 * cp2k: 7.0 (git:c67de69)  (Sep 30, 2019)
 * OS: ubuntu.16.04
